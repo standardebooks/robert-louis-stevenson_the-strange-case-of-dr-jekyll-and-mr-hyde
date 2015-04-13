@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-13T07:35:16Z</meta>
+		<meta property="dcterms:modified">2015-04-14T07:23:58Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -25,13 +25,13 @@
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
+		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
-		]]></meta>
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>LANG</dc:language>
 		<dc:source>LINK</dc:source>
-		<meta property="se:word-count">25642</meta>
+		<meta property="se:word-count">25817</meta>
 		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
 		<meta property="se:url.vcs.github">VCSLINK</meta>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
