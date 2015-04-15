@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde</dc:identifier>
-		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-15T23:03:30Z</meta>
+		<dc:date>2015-04-15T11:09:00Z</dc:date>
+		<meta property="dcterms:modified">2015-04-15T23:15:41Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -17,36 +17,42 @@
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Strange Case of Dr. Jekyll and Mr. Hyde</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="file-as" refines="#title">Strange Case of Dr. Jekyll and Mr. Hyde, The</meta>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Horror tales</dc:subject>
+		<dc:subject id="subject-3">London (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Physicians -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Psychological fiction</dc:subject>
+		<dc:subject id="subject-6">Self-experimentation in medicine -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Multiple personality -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/43</dc:source>
 		<meta property="se:word-count">25817</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
-		<meta property="se:url.vcs.github">VCSLINK</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde</meta>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.wikipedia" refines="#author">WIKILINK</meta>
+		<meta property="file-as" refines="#author">Stevenson, Robert Louis</meta>
+		<meta property="se:name.person.full-name" refines="#author">Robert Lewis Balfour Stevenson</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Louis_Stevenson</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.wikipedia" refines="#artist">WIKILINK</meta>
+		<dc:contributor id="artist">Albert Edelfelt</dc:contributor>
+		<meta property="file-as" refines="#artist">Edelfelt, Albert</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Edelfelt</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
