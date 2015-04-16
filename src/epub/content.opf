@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde</dc:identifier>
 		<dc:date>2015-04-15T11:09:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-16T00:13:12Z</meta>
+		<meta property="dcterms:modified">2015-05-12T05:23:39Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -37,7 +37,8 @@
 		<dc:description id="description">A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/i&gt; is the classic novella of split personality.  Stevenson wrote it in just a few days while sick and bedridden, and famously burned the first draft after his wife suggested it should be written as an allegory and not as a story.  He re-wrote it in three to six days, and after a few weeks of editing and revision he published what would become one of his most famous and best-selling works.&lt;/p&gt;
+			&lt;p&gt;The story follows a London lawyer as he investigates the relationship between a brilliant scientist and a misshappen misanthrope.  As the link between the two becomes clearer, &lt;i&gt;Jekyll and Hyde&lt;/i&gt; develops into an allegory on the nature of good and evil.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -45,7 +46,7 @@
 		<dc:source>http://catalog.hathitrust.org/Record/100586776</dc:source>
 		<meta property="se:word-count">25817</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde</meta>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
 		<meta property="file-as" refines="#author">Stevenson, Robert Louis</meta>
 		<meta property="se:name.person.full-name" refines="#author">Robert Lewis Balfour Stevenson</meta>
