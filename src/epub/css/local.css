@@ -24,3 +24,7 @@ section > footer{
 .signature{
 	font-variant: small-caps;
 }
+
+abbr.degree{
+	font-variant: all-small-caps;
+}
