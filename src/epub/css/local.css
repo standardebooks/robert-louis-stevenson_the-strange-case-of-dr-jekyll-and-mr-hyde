@@ -21,10 +21,6 @@ section > footer{
 	font-variant: small-caps;
 }
 
-abbr.degree{
-	font-variant: all-small-caps;
-}
-
 abbr.name{
 	white-space: nowrap;
 }
