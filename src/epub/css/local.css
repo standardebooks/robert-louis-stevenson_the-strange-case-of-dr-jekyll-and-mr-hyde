@@ -1,8 +1,8 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-*[epub|type~="z3998:letter"] p:first-child,
-*[epub|type~="z3998:letter"] + p,
+[epub|type~="z3998:letter"] p:first-child,
+[epub|type~="z3998:letter"] + p,
 p[epub|type~="se:letter.dateline"] + p{
 	text-indent: 0;
 }
