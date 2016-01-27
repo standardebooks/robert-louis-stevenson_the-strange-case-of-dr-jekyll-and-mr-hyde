@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-12-10T22:49:14Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:42:28Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -25,13 +25,13 @@
 		<dc:subject id="subject-5">Psychological fiction</dc:subject>
 		<dc:subject id="subject-6">Self-experimentation in medicine -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Multiple personality -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/43</meta>
+		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/43</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:description>
@@ -42,7 +42,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/43</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/43</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/100586776</dc:source>
 		<meta property="se:word-count">25820</meta>
 		<meta property="se:reading-ease.flesch">67.08</meta>
