@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-07-21T00:40:42Z</meta>
-		<meta property="se:revision-number">44</meta>
+		<meta property="dcterms:modified">2017-07-27T20:52:20Z</meta>
+		<meta property="se:revision-number">45</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,8 +38,8 @@
 		<dc:description id="description">A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/i&gt; is the classic novella of split personality.  Stevenson wrote it in just a few days while sick and bedridden, and famously burned the first draft after his wife suggested it should be written as an allegory and not as a story.  He re-wrote it in three to six days, and after a few weeks of editing and revision he published what would become one of his most famous and best-selling works.&lt;/p&gt;
-			&lt;p&gt;The story follows a London lawyer as he investigates the relationship between a brilliant scientist and a misshappen misanthrope.  As the link between the two becomes clearer, &lt;i&gt;Jekyll and Hyde&lt;/i&gt; develops into an allegory on the nature of good and evil.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/i&gt; is the classic novella of split personality. Stevenson wrote it in just a few days while sick and bedridden, and famously burned the first draft after his wife suggested it should be written as an allegory and not as a story. He re-wrote it in three to six days, and after a few weeks of editing and revision he published what would become one of his most famous and best-selling works.&lt;/p&gt;
+			&lt;p&gt;The story follows a London lawyer as he investigates the relationship between a brilliant scientist and a misshappen misanthrope. As the link between the two becomes clearer, &lt;i&gt;Jekyll and Hyde&lt;/i&gt; develops into an allegory on the nature of good and evil.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
