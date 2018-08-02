@@ -19,7 +19,3 @@ section > footer{
 .signature{
 	font-variant: small-caps;
 }
-
-abbr.name{
-	white-space: nowrap;
-}
