@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Strange Case of Dr. Jekyll and Mr. Hyde</dc:title>
 		<meta property="file-as" refines="#title">Strange Case of Dr. Jekyll and Mr. Hyde, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
@@ -36,22 +36,27 @@
 		<dc:subject id="subject-5">Psychological fiction</dc:subject>
 		<dc:subject id="subject-6">Self-experimentation in medicine -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Multiple personality -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/43</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/43</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85062084</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008106611</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008108880</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85108438</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2010112549</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008107253</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/i&gt; is the classic novella of split personality. Stevenson wrote it in just a few days while sick and bedridden, and famously burned the first draft after his wife suggested it should be written as an allegory and not as a story. He re-wrote it in three to six days, and after a few weeks of editing and revision he published what would become one of his most famous and best-selling works.&lt;/p&gt;
 			&lt;p&gt;The story follows a London lawyer as he investigates the relationship between a brilliant scientist and a misshappen misanthrope. As the link between the two becomes clearer, &lt;i&gt;Jekyll and Hyde&lt;/i&gt; develops into an allegory on the nature of good and evil.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/43</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100586776</dc:source>
