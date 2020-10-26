@@ -70,10 +70,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Louis_Stevenson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78088964</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Albert Edelfelt</dc:contributor>
-		<meta property="file-as" refines="#artist">Edelfelt, Albert</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Edelfelt</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82230057</meta>
+		<dc:contributor id="artist">Hans von Marées</dc:contributor>
+		<meta property="file-as" refines="#artist">Von Marées, Hansg</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hans_von_Mar%C3%A9es</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n83204518</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
