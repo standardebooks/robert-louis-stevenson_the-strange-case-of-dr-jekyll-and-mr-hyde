@@ -13,7 +13,7 @@ footer{
 
 p[epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-align: left;;
+	text-align: initial;;
 	text-indent: 0;
 }
 
