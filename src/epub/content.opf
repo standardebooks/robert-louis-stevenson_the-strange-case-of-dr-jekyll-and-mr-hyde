@@ -64,7 +64,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/43</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100586776</dc:source>
-		<meta property="se:word-count">25822</meta>
+		<meta property="se:word-count">25821</meta>
 		<meta property="se:reading-ease.flesch">66.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde</meta>
