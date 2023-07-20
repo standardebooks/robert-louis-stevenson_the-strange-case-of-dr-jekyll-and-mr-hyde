@@ -56,6 +56,8 @@
 		<meta property="group-position" refines="#collection-1">20</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta id="collection-3" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
 		<dc:description id="description">A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Strange Case of &lt;abbr&gt;Dr.&lt;/abbr&gt; Jekyll and &lt;abbr&gt;Mr.&lt;/abbr&gt; Hyde&lt;/i&gt; is the classic novella of split personality. &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Stevenson&lt;/a&gt; wrote it in just a few days while sick and bedridden, and famously burned the first draft after his wife suggested it should be written as an allegory and not as a story. He re-wrote it in three to six days, and after a few weeks of editing and revision he published what would become one of his most famous and best-selling works.&lt;/p&gt;
