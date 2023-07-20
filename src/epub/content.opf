@@ -56,7 +56,7 @@
 		<meta property="group-position" refines="#collection-1">20</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<meta id="collection-3" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-3" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<dc:description id="description">A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
