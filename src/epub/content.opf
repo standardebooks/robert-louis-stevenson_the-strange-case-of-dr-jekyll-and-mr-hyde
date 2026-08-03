@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
@@ -63,11 +63,11 @@
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">32</meta>
-		<dc:description id="description">A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A London lawyer investigates the relationship between a brilliant scientist and a misshapen misanthrope.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Strange Case of &lt;abbr&gt;Dr.&lt;/abbr&gt; Jekyll and &lt;abbr&gt;Mr.&lt;/abbr&gt; Hyde&lt;/i&gt; is the classic novella of split personality. &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Stevenson&lt;/a&gt; wrote it in just a few days while sick and bedridden, and famously burned the first draft after his wife suggested it should be written as an allegory and not as a story. He re-wrote it in three to six days, and after a few weeks of editing and revision he published what would become one of his most famous and best-selling works.&lt;/p&gt;
 			&lt;p&gt;The story follows a London lawyer as he investigates the relationship between a brilliant scientist and a misshapen misanthrope. As the link between the two becomes clearer, &lt;i&gt;Jekyll and Hyde&lt;/i&gt; develops into an allegory on the nature of good and evil.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/43</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100586776</dc:source>
