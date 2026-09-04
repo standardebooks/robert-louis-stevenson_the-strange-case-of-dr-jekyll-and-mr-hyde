@@ -32,11 +32,11 @@
 		<meta property="file-as" refines="#title">Strange Case of Dr. Jekyll and Mr. Hyde, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Horror tales</dc:subject>
-		<dc:subject id="subject-3">London (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Physicians -- Fiction</dc:subject>
+		<dc:subject id="subject-3">London (England)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Physicians--Fiction</dc:subject>
 		<dc:subject id="subject-5">Psychological fiction</dc:subject>
-		<dc:subject id="subject-6">Self-experimentation in medicine -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Multiple personality -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Self-experimentation in medicine--Fiction</dc:subject>
+		<dc:subject id="subject-7">Multiple personality--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
